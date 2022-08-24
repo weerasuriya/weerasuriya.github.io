@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: pub
+
+website:
+  title: "weerasuriya/pages"
+  navbar:
+    left:
+      - about.qmd
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+

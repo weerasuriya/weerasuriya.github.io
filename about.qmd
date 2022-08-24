@@ -1,0 +1,10 @@
+---
+title: "About"
+about:
+  template: jolla
+
+---
+
+Hi. I am a physician and computational epidemiologist at the London School of Hygiene and Tropical Medicine, working on mathematical models of vaccines.
+
+This site is a work in progress. I haven't decided what it should contain, but stay tuned to find out.
